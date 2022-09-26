@@ -1,0 +1,10 @@
+<svg id="CGimageXDLogo" xmlns="http://www.w3.org/2000/svg" width="59" height="28" viewBox="0 0 59 28">
+  <g id="Rectangle_1" data-name="Rectangle 1" stroke="#1e4648" stroke-width="1">
+    <rect width="59" height="28" rx="14" stroke="none"/>
+    <rect x="0.5" y="0.5" width="58" height="27" rx="13.5" fill="none"/>
+  </g>
+  <text id="G" transform="translate(12 21)" fill="#cec390" font-size="20" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">G</tspan></text>
+  <text id="C" transform="translate(5 21)" fill="#8097a8" font-size="20" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">C</tspan></text>
+  <text id="_1image" data-name="1image" transform="translate(27 16)" fill="#fff" font-size="7" font-family="Poppins-Bold, Poppins" font-weight="700"><tspan x="0" y="0">1image</tspan></text>
+  <text id="Coder_Technician" data-name="Coder Technician" transform="translate(27 21)" fill="#fff" font-size="3" font-family="Poppins-Regular, Poppins"><tspan x="0" y="0">Coder Technician</tspan></text>
+</svg>

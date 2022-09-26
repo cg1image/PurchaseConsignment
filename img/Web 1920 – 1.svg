@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <filter id="C" x="586" y="327" width="249" height="441" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="C-2" x="773" y="632" width="249" height="441" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="7" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080"/>
+    <g id="Component_1_1" data-name="Component 1 – 1" transform="translate(592 329)">
+      <text id="G" transform="translate(133 318)" fill="#bc8e23" font-size="300" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">G</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -592, -329)" filter="url(#C)">
+        <text id="C-3" data-name="C" transform="translate(592 646)" fill="#8097a8" font-size="302" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">C</tspan></text>
+      </g>
+    </g>
+    <g id="Component_1_2" data-name="Component 1 – 2" transform="translate(779 634)">
+      <text id="G-2" data-name="G" transform="translate(133 318)" font-size="300" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">G</tspan></text>
+      <g transform="matrix(1, 0, 0, 1, -779, -634)" filter="url(#C-2)">
+        <text id="C-4" data-name="C" transform="translate(779 951)" font-size="302" font-family="Poppins-BoldItalic, Poppins" font-weight="700" font-style="italic"><tspan x="0" y="0">C</tspan></text>
+      </g>
+    </g>
+    <text id="_1image" data-name="1image" transform="translate(954 560)" fill="#fff" font-size="105" font-family="Poppins-Regular, Poppins" text-decoration="underline"><tspan x="0" y="0">1image</tspan></text>
+    <text id="Code_Technician" data-name="Code Technician" transform="translate(954 636)" fill="#fff" font-size="37" font-family="Poppins-LightItalic, Poppins" font-weight="300" font-style="italic"><tspan x="0" y="0">Code Technician</tspan></text>
+  </g>
+</svg>

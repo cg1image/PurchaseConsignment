@@ -1,0 +1,76 @@
+:root{  /* :root can be useful for declaring global CSS variables: (in this case, global colors).
+    */
+    --primary-color: #8097a8;
+    --secondary-color: #cbb26a;
+    --dark-color: #000000;
+    --white-color: #e5d9b6;
+    --lighter-color: #f3f3f3;
+    --withe-color: white;
+}
+
+body{
+    color:var(--dark-color); /* var(--***-***); Custom properties that contain specific values to be reused throughout a document. */
+}
+
+.logoFont{
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+nav{
+    background-color: var(--dark-color);
+}
+
+footer{
+    background-color: var(--dark-color);
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: var(--dark-color);
+}
+
+footer {
+    padding-right: 1rem;
+}
+
+footer .social>a{
+    color: var(--lighter-color);
+    opacity: 0.75;
+}
+
+footer .social>a:hover{
+    opacity: .9;
+    color: var(--primary-color);
+}
+
+.bsicon{
+    color: purple;
+}
+
+.jsicon{
+    color:rgb(225,211,4);
+}
+
+.html5icon{
+    color: orangered;
+}
+
+.css3icon{
+    color: rgb(11,82,214);
+}
+
+.checklist >li i{
+    color: var(--primary-color);
+}
+
+code[class*="language-"],
+    pre[class*="language-"] {
+    white-space: pre-wrap;
+    word-break: break-all;
+    word-wrap: break-word;
+}
+
+main>.container {
+    padding: 60px 15px 0;
+    margin-bottom: 5rem;
+}
